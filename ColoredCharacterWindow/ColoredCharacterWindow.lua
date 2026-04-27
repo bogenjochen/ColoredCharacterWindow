@@ -54,12 +54,12 @@ local function CreateBorderForSlot(slotButton)
     end
 
     local border = CreateFrame("Frame", nil, slotButton)
-    border:SetPoint("TOPLEFT", slotButton, "TOPLEFT", -2, 2)
-    border:SetPoint("BOTTOMRIGHT", slotButton, "BOTTOMRIGHT", 2, -2)
+    border:SetPoint("TOPLEFT", slotButton, "TOPLEFT", -3, 3)
+    border:SetPoint("BOTTOMRIGHT", slotButton, "BOTTOMRIGHT", 3, -3)
 
     border:SetBackdrop({
         edgeFile = "Interface\\Tooltips\\UI-Tooltip-Border",
-        edgeSize = 12,
+        edgeSize = 14,
         insets = {
             left = 3,
             right = 3,
