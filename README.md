@@ -9,6 +9,8 @@ A small WoW 3.3.5 addon that adds rarity-colored borders to equipped items in th
 - Works on inspected players
 - Lightweight and automatic
 
+<img width="281" height="370" alt="image" src="https://github.com/user-attachments/assets/551014fc-5e63-4bec-a0bd-926061de72c0" />
+
 ## Install
 
 Place the addon folder in /Interface/AddOns/
