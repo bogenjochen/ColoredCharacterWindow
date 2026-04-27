@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: Colored Character Window
+## Notes: Overhauls the character window and adds rarity-colored item borders.
+## Author: Bogenjochen
+## Version: 0.1
+## SavedVariables: ColoredCharacterWindowDB
+
+ColoredCharacterWindow.lua
